@@ -22,6 +22,23 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+La vista preliminar del portfolio angular quedaria de la siguiente manera: 
+
+
+<img width="946" alt="angularPortfolio" src="https://github.com/MaxDanna26/PorfolioAngular_FullStack/assets/123936123/dc13c4d9-ca03-4031-b597-3f84f8dbb68f">
+
+Puede ser totalmente adaptable para modificar el contenido y crear distintas aplicaciones web muy facilmente.
+
+
+<img width="947" alt="portfolioAngular" src="https://github.com/MaxDanna26/PorfolioAngular_FullStack/assets/123936123/e93b5d6b-610f-42c1-b094-dd59ebe50806">
+
+
+
+
+
+
